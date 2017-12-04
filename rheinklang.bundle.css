@@ -1,0 +1,40 @@
+body,
+html {
+    margin: 0;
+}
+
+body {
+    font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif;
+    color: #4949e9;
+}
+
+img {
+    width: 80%;
+    max-width: 800px;
+    margin: 30px auto;
+    display: block;
+}
+
+h3,
+p {
+    width: 80%;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+h3 {
+    font-size: 2rem;
+    margin: 0 auto 15px auto;
+}
+
+a {
+    padding: 10px 20px;
+    background-color: #4949e9;
+    display: inline-block;
+    color: #fff;
+    border-radius: 5px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 70%;
+    margin-top: 30px;
+}
